@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FD5800&size=35&center=true&vCenter=true&width=1000&lines=OII,+meu+Nome+é+Emilly+Kamile;Eu+tenho+20+anos+de+idade;Eu+sou+do+Brasil,+PE;+Sou+Desenvolvedora+Web;Seja+Bem-Vindo(a)!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FD5800&size=35&center=true&vCenter=true&width=1000&lines=OII,+meu+Nome+é+Emilly+Kamile;Eu+tenho+21+anos+de+idade;Eu+sou+do+Brasil,+PE;+Sou+Desenvolvedora+Web;Seja+Bem-Vindo(a)!+:%29)
 
 Entusiasta de tecnologia desde os 16 anos, sedenta por conhecimento e com uma personalidade audaciosa, multipontencial, centrada e obstinada. Possuo duas grandes paixões: design e programação, e através das minhas experiências como desenvolvedora frontend e como webdesigner, identifiquei muita sinergia entre os dois mundos. Meu interesse e autodidatismo em design gráfico na adolescência e em programação na fase adulta, agora fazem todo sentido, e me possibilitarão ser uma profissional super completa e com habilidades (distintas, mas relacionadas) que se complementam e se potencializam. 
 
