@@ -14,7 +14,7 @@ Entusiasta de tecnologia desde os 16 anos, sedenta por conhecimento e com uma pe
  Ao concluir a graduação de ADS, iniciei a graduação de Design Gráfico, e me sinto confortável e feliz em atuar em quaisquer das posições citadas no título. Sempre colocando no centro do meu trabalho o foco no cliente e a excelência na experiência do usuário. Tenho convicção que minhas soft e hard skills podem contribuir na construção de grandes resultados coletivos e individuais.
 </p>
 
-<p align="center">
+<p align="left">
   🦄 Minhas Skills: <br />
   <strong>React, <br />
   Javascript, <br />
@@ -28,7 +28,7 @@ Entusiasta de tecnologia desde os 16 anos, sedenta por conhecimento e com uma pe
   UI e UX.</strong>
 </p>
 
-<p align="center">
+<p align="left">
 💼 Ferramentas: <br />
 Visual Studio Code <br />
 GitHub <br />
