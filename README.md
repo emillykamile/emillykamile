@@ -15,16 +15,9 @@ Entusiasta de tecnologia desde os 16 anos, sedenta por conhecimento e com uma pe
 </p>
 
 <p align="left">
-  🦄 Minhas Skills: <br />
-  <strong>React, <br />
-  Javascript, <br />
-  Typescript, <br />
-  HTML5, <br />
-  CSS3, <br />
-  Git, <br />
-  Github, <br />
-  Node básico, <br />
-  Java básico, <br />
+  🦄 ### Minhas Skills: <br />
+  <strong>React, Javascript, Typescript, HTML5, CSS3, <br />
+  Git, Github, Node básico, Java básico, <br />
   UI e UX.</strong>
 </p>
 
