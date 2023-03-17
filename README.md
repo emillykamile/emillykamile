@@ -23,10 +23,7 @@ Entusiasta de tecnologia desde os 16 anos, sedenta por conhecimento e com uma pe
 
 <p align="left">
 💼 Ferramentas: <br />
-Visual Studio Code <br />
-GitHub <br />
-Windows <br />
-Microsoft-office <br />
+Visual Studio Code, GitHub, Windows, Microsoft-office <br />
 Pacotes Adobe/Adobe Creative Cloud; <br />
 
   
