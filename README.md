@@ -38,8 +38,5 @@ Pacotes Adobe/Adobe Creative Cloud; <br />
 ![Storybook](https://img.shields.io/badge/-Storybook-0D1117?style=for-the-badge&logo=storybook&logoColor=F74581&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### Estudando no momento:
-UI e UX Design / Design Gráfico
-
 ![Snake animation](https://github.com/emillykamile/emillykamile/blob/output/github-contribution-grid-snake.svg)
 
