@@ -1,22 +1,16 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FD5800&size=35&center=true&vCenter=true&width=1000&lines=OII,+meu+Nome+é+Emilly+Kamile;Eu+tenho+21+anos+de+idade;Eu+sou+do+Brasil,+PE;+Sou+Desenvolvedora+Web;Seja+Bem-Vindo(a)!+:%29)
+Olá, é um prazer ter você aqui! Meu nome é Emilly, fico feliz que veio conhecer mais do meu trabalho com código.
 
-Entusiasta de tecnologia desde os 16 anos, sedenta por conhecimento e com uma personalidade audaciosa, multipontencial, centrada e obstinada. Possuo duas grandes paixões: design e programação, e através das minhas experiências como desenvolvedora frontend e como webdesigner, identifiquei muita sinergia entre os dois mundos. Meu interesse e autodidatismo em design gráfico na adolescência e em programação na fase adulta, agora fazem todo sentido, e me possibilitarão ser uma profissional super completa e com habilidades (distintas, mas relacionadas) que se complementam e se potencializam. 
-
-  
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emillykamile&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Emilly Kamile" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillykamile&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+Entusiasta de tecnologia desde os 16 anos, sedenta por conhecimento e com uma personalidade audaciosa, multipontencial, centrada e obstinada. Possuo duas grandes paixões: design e programação, e através das minhas experiências como desenvolvedora frontend e como webdesigner, identifiquei muita sinergia entre os dois mundos. Meu interesse e autodidatismo em design gráfico na adolescência e em programação na fase adulta, agora fazem todo sentido, e me possibilitaram ser uma profissional super completa e com habilidades (distintas, mas relacionadas) que se complementam e se potencializam. Hoje atuo em ambas stacks, no mercado formal.
  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Ao concluir a graduação de ADS, iniciei a graduação de Design Gráfico, e me sinto confortável e feliz em atuar em quaisquer das posições citadas no título. Sempre colocando no centro do meu trabalho o foco no cliente e a excelência na experiência do usuário. Tenho convicção que minhas soft e hard skills podem contribuir na construção de grandes resultados coletivos e individuais.
+ Ao concluir a graduação de ADS e me especializar em React. Iniciei a graduação de Design Gráfico, em busca da especialização em UX/UI Design. Me sinto confortável e feliz em atuar em quaisquer das posições. Sempre colocando no centro do meu trabalho o foco no cliente e a excelência na experiência do usuário. Tenho convicção que minhas soft e hard skills podem contribuir na construção de grandes resultados coletivos e individuais.
 </p>
 
 <p align="left">
   🦄 ### Minhas Skills: <br />
-  <strong>React, Javascript, Typescript, HTML5, CSS3, <br />
+  <strong>React, Javascript, Typescript, Next.js, HTML5, CSS3, <br />
   Git, Github, Node básico, Java básico, <br />
   UI e UX.</strong>
 </p>
