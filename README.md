@@ -24,11 +24,10 @@ Habilidades adicionais: Iniciativa, Resolução de Problemas, Trabalho em Equipe
 </p>
 
 <p align="left">
-Atualizações
+Atualizações <br />
 Estou constantemente em busca de aprendizado e evolução. Atualmente, estou cursando um MBA em Gestão Estratégica em UX Design para complementar minha formação e aprimorar ainda mais minhas habilidades.
 </p>
 
 <p align="left">
-Compromisso
 Como desenvolvedora frontend ou designer, meu compromisso é sempre entregar soluções de alta qualidade, focadas no cliente e na experiência do usuário. Estou comprometida em inspirar a inovação em tudo o que faço e em contribuir para o sucesso coletivo e individual.
 </p>
